@@ -1,4 +1,4 @@
-import data_preparation.inputpreparation as inputprep
+import data_preparation.input_preparation as inputprep
 import xgboost as xgb
 import numpy as np
 
